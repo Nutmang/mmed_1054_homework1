@@ -1,6 +1,6 @@
 # mmed_1054_homework1
 
-This is a short HTML application being written for MMED 1054, including information for the two team members Noah & AlsoNoah. 
+This is a short HTML application being written for MMED 1054, including information for the two team members Noah & AlsoNoah.
 
 #MIT License
 
